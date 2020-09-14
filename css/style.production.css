@@ -94,8 +94,8 @@ button:focus,
 }
 
 .button__secondary {
-  background-color: var(--secondary-color);
-  color: #2b2b2b;
+  background-color: #2941f5;
+  color: white;
 }
 
 .navigation-list__item--active {
