@@ -170,6 +170,25 @@ button:focus,
   height: 70px;
 }
 
+.contact__form {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+}
+
+input,
+textarea {
+  display: block;
+  padding: 10px;
+  width: 100%;
+}
+
+.contact__info {
+  text-align: center;
+}
+
 .grid__item {
   display: inline-block;
   width: 33%;
